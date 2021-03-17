@@ -1,0 +1,14 @@
+/*Admin Panel Stylesheet*/
+.admin-panel-form input[type="radio"] {
+    margin-right: 5px;
+}
+.preview-content p {
+    margin: 0;
+    line-height: 1.4;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 3px 0;
+}
+.preview-content p span {
+    font-weight: 400;
+}
